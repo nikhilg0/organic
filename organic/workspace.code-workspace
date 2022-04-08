@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu-18.04\\home\\sgutti\\test-ledger"
+		},
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu-18.04\\home\\sgutti\\gm-program"
+		},
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu-18.04\\home\\sgutti\\token-program"
+		}
+	],
+	"settings": {}
+}
